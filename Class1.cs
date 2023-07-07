@@ -8,5 +8,6 @@ namespace provabeta
 {
     internal class Class1
     {
+        "ciaooooo"
     }
 }
